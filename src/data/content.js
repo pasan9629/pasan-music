@@ -9,8 +9,8 @@ export const site = {
   name: 'Pasan Mahela',
   roles: 'Music Director · Producer · Composer',
   tagline: 'I turn ideas into sound.',
-  email: 'hello@example.com',          // REPLACE: your email
-  whatsapp: '94700000000',             // REPLACE: number, country code, no + or spaces
+  email: 'mahelapasan@gmail.com',          // REPLACE: your email
+  whatsapp: '94763497728',             // REPLACE: number, country code, no + or spaces
   waMessage: "Hi Pasan, I'd like to talk about a music project.",
 }
 
